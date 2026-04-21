@@ -10,8 +10,6 @@ Create social media posts and branding designs using AI tools.
 
 ## 📷 Sample Work
 
-## 📷 Work Preview
-
 ### Aurel Sample
 ![Aurel](Aurel_Sample.png)
 
