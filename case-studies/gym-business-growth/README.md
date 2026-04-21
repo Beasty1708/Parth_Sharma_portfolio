@@ -38,4 +38,13 @@ I created a complete AI-assisted digital package:
 ---
 
 ## 📷 Work Preview
-(Add images and video links here)
+
+### Logo
+![Logo](logo.png)
+
+### Instagram Creatives
+![Post1](post1.png)
+![Post2](post2.png)
+
+### Website Design
+![Website](IronFit_Website_SS.png.png)
