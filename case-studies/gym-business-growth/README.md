@@ -43,8 +43,8 @@ I created a complete AI-assisted digital package:
 ![Logo](logo.png)
 
 ### Instagram Creatives
-![Post1](post1.png)
-![Post2](post2.png)
+![Post1](Post1.png)
+![Post2](Post2.png)
 
 ### Website Design
-![Website](IronFit_Website_SS.png.png)
+![Website](IronFit_Wbsite_SS.png.png)
