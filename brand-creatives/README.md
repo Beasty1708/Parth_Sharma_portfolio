@@ -10,7 +10,7 @@ Create social media posts and branding designs using AI tools.
 
 ## 📷 Sample Work
 
--Flowsync_Sample
--Aurel_Sample
--NorthBridge_Capital_Sample
--Nescafe_Sample
+- Flowsync_Sample
+- Aurel_Sample
+- NorthBridge_Capital_Sample
+- Nescafe_Sample
