@@ -23,7 +23,7 @@ I help businesses grow using data analysis, AI-generated content, and digital cr
 (Coming soon)
 
 ### 🎨 Brand Creatives
-(Coming soon)
+(✔ Completed)
 
 ### 🎬 AI Videos
 (Coming soon)
