@@ -9,8 +9,5 @@ Create social media posts and branding designs using AI tools.
 - Visual direction
 
 ## 📷 Sample Work
-(![Uploading image.png…]()
-)
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
+
+-Flowsync Sample
