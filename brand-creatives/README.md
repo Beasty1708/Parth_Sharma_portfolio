@@ -20,4 +20,4 @@ Create social media posts and branding designs using AI tools.
 ![Nescafe](Nescafe_Sample.png)
 
 ### North Bridge Capital
-![NorthBridge Capital](NorthBridge_Capital_Sample.png)
+![NorthBridge Capital](NorthBridge_Capital_sample.png)
